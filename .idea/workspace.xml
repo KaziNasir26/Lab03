@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="743ad2bc-feeb-41c1-b51a-a82240a9f21e" name="Changes" comment="working on university class">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "KaziNasir26"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/KaziNasir26/Lab03.git",
+    "accountId": "5dedb7a1-b4fb-4efe-ad24-e9690cc72966"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2jRO7JCkSI6jYx15ercwEGTWVXn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.University.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.18034.62" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.18034.62" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="743ad2bc-feeb-41c1-b51a-a82240a9f21e" name="Changes" comment="" />
+      <created>1721346254099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721346254099</updated>
+      <workItem from="1721346255068" duration="3206000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1721347046927</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721347046927</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1721347075206</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1721347075206</updated>
+    </task>
+    <task id="LOCAL-00003" summary="working on Professor class">
+      <option name="closed" value="true" />
+      <created>1721347123093</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721347123093</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fixing errors in student class">
+      <option name="closed" value="true" />
+      <created>1721347186015</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721347186015</updated>
+    </task>
+    <task id="LOCAL-00005" summary="created person class and added constructor">
+      <option name="closed" value="true" />
+      <created>1721347233141</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721347233141</updated>
+    </task>
+    <task id="LOCAL-00006" summary="working on university class">
+      <option name="closed" value="true" />
+      <created>1721347268926</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1721347268926</updated>
+    </task>
+    <task id="LOCAL-00007" summary="working on university class">
+      <option name="closed" value="true" />
+      <created>1721352293792</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1721352293792</updated>
+    </task>
+    <task id="LOCAL-00008" summary="working on university class">
+      <option name="closed" value="true" />
+      <created>1721353925831</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1721353925831</updated>
+    </task>
+    <task id="LOCAL-00009" summary="working on university class">
+      <option name="closed" value="true" />
+      <created>1721353943667</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1721353943667</updated>
+    </task>
+    <task id="LOCAL-00010" summary="working on professor class">
+      <option name="closed" value="true" />
+      <created>1721353988105</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1721353988105</updated>
+    </task>
+    <task id="LOCAL-00011" summary="working on professor class">
+      <option name="closed" value="true" />
+      <created>1721354000487</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1721354000487</updated>
+    </task>
+    <task id="LOCAL-00012" summary="working on professor class">
+      <option name="closed" value="true" />
+      <created>1721354028166</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1721354028166</updated>
+    </task>
+    <task id="LOCAL-00013" summary="working on professor class">
+      <option name="closed" value="true" />
+      <created>1721354040065</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1721354040065</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update on student class">
+      <option name="closed" value="true" />
+      <created>1721354089799</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1721354089799</updated>
+    </task>
+    <task id="LOCAL-00015" summary="error solving on student class">
+      <option name="closed" value="true" />
+      <created>1721354110421</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1721354110421</updated>
+    </task>
+    <task id="LOCAL-00016" summary="works on abstract">
+      <option name="closed" value="true" />
+      <created>1721354155416</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1721354155416</updated>
+    </task>
+    <task id="LOCAL-00017" summary="added abstract">
+      <option name="closed" value="true" />
+      <created>1721354177202</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1721354177202</updated>
+    </task>
+    <task id="LOCAL-00018" summary="working on university class">
+      <option name="closed" value="true" />
+      <created>1721354250172</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1721354250172</updated>
+    </task>
+    <task id="LOCAL-00019" summary="working on university class">
+      <option name="closed" value="true" />
+      <created>1721354258464</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1721354258464</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <MESSAGE value="working on Professor class" />
+    <MESSAGE value="fixing errors in student class" />
+    <MESSAGE value="created person class and added constructor" />
+    <MESSAGE value="working on professor class" />
+    <MESSAGE value="update on student class" />
+    <MESSAGE value="error solving on student class" />
+    <MESSAGE value="works on abstract" />
+    <MESSAGE value="added abstract" />
+    <MESSAGE value="working on university class" />
+    <option name="LAST_COMMIT_MESSAGE" value="working on university class" />
+  </component>
+</project>
