@@ -60,4 +60,7 @@ public class Address {
         return street != null && city != null && state != null && postalCode != null && country != null;
     }
 
-
+    public String outputAsLabel() {
+        return street + ", " + city + ", " + state + ", " + postalCode + ", " + country;
+    }
+}
