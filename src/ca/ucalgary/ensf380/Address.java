@@ -1,6 +1,7 @@
 package ca.ucalgary.ensf380;
 
 public class Address {
+
     private String street;
     private String city;
     private String state;
@@ -59,7 +60,4 @@ public class Address {
         return street != null && city != null && state != null && postalCode != null && country != null;
     }
 
-    public String outputAsLabel() {
-        return street + ", " + city + ", " + state + ", " + postalCode + ", " + country;
-    }
-}
+
