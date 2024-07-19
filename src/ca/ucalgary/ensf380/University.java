@@ -11,6 +11,7 @@ public class University {
         Student stud1 = new Student("Alice Johnson", "403-333-2222", "ajohnson@university.ca", addr1, "S001", prof1, 78.5);
         Student stud2 = new Student("Bob Brown", "403-444-5555", "bbrown@university.ca", addr2, "S002", prof2, 82.3);
 
-
+        System.out.println("Professor 1: " + prof1.getName() + " supervises " + stud1.getName());
+        System.out.println("Professor 2: " + prof2.getName() + " supervises " + stud2.getName());
     }
 }
