@@ -1,8 +1,6 @@
 package ca.ucalgary.ensf380;
 
-public class Professor extends Person {
-    private String teacherNumber;
-    private double salary;
+
 
     public Professor(String name, String phoneNumber, String emailAddress, Address address,
                      String teacherNumber, double salary) {
